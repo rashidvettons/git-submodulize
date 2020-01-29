@@ -1,0 +1,8 @@
+[submodule "lib-shared"]
+	path = libs/lib-shared
+	url = git@github.com:rashidvettons/lib-shared.git
+	branch = master
+[submodule "mod-dummy"]
+	path = modules/mod-dummy
+	url = git@github.com:rashidvettons/mod-dummy.git
+	branch = master
